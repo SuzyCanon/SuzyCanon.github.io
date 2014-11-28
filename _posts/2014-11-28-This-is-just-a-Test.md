@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "This is, just a , Test"
+title: "This is just a Test"
 date: 2014-11-28
 ---
 
