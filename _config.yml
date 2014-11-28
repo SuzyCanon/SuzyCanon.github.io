@@ -1,2 +1,3 @@
 name: Suzy
 Markdown: Kramdown
+permalink: /blog/:year/:month/:day/:title
